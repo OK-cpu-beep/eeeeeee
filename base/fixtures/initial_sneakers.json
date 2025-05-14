@@ -1,0 +1,30 @@
+[
+  {
+    "model": "base.sneaker",
+    "pk": 1,
+    "fields": {
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": "12999.00",
+      "category": "casual",
+      "surface_type": null,
+      "composition": null,
+      "description": null,
+      "gender": "male",
+      "sizes": { "38": 10, "39": 5, "40": 7 }
+    }
+  },
+  {
+    "model": "base.sneaker",
+    "pk": 2,
+    "fields": {
+      "name": "Женские Кроссовки Nike Air Max 270",
+      "price": "15600.00",
+      "category": "sport",
+      "surface_type": null,
+      "composition": null,
+      "description": null,
+      "gender": "female",
+      "sizes": { "36": 8, "37": 6, "38": 4 }
+    }
+  }
+]

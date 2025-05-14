@@ -1,0 +1,82 @@
+sneakers = [
+  {
+    "id": 3,
+    "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+    "price": 8499.0,
+    "gender": "male",
+    "category": "casual",
+    "season": "winter",
+    "color": "white",
+    "sizes": {}
+  },
+  {
+    "id": 4,
+    "name": "Женские Кроссовки Puma X Aka Boku Future Rider",
+    "price": 8999.0,
+    "gender": "female",
+    "category": "sport",
+    "season": "summer",
+    "color": "blue",
+    "sizes": {}
+  },
+  {
+    "id": 5,
+    "name": "Женские Кроссовки Under Armour Curry 8",
+    "price": 15199.0,
+    "gender": "female",
+    "category": "sport",
+    "season": "all",
+    "color": "yellow",
+    "sizes": {}
+  },
+  {
+    "id": 6,
+    "name": "Мужские Кроссовки Nike Kyrie 7",
+    "price": 11299.0,
+    "gender": "male",
+    "category": "sport",
+    "season": "summer",
+    "color": "black",
+    "sizes": {}
+  },
+  {
+    "id": 7,
+    "name": "Мужские Кроссовки Jordan Air Jordan 11",
+    "price": 10799.0,
+    "gender": "male",
+    "category": "sport",
+    "season": "all",
+    "color": "red",
+    "sizes": {}
+  },
+  {
+    "id": 8,
+    "name": "Мужские Кроссовки Nike LeBron XVIII",
+    "price": 16499.0,
+    "gender": "male",
+    "category": "sport",
+    "season": "winter",
+    "color": "black",
+    "sizes": {}
+  },
+  {
+    "id": 9,
+    "name": "Мужские Кроссовки Nike Lebron XVIII Low",
+    "price": 13999.0,
+    "gender": "male",
+    "category": "casual",
+    "season": "summer",
+    "color": "blue",
+    "sizes": {}
+  },
+  {
+    "id": 10,
+    "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+    "price": 8499.0,
+    "gender": "male",
+    "category": "casual",
+    "season": "all",
+    "color": "green",
+    "sizes": {}
+  }
+]
